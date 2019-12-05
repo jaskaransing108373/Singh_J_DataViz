@@ -10,5 +10,5 @@ plt.ylabel("Number of Bronze Medals")
 plt.xlabel("number of Year")
 plt.title("mens bronze medals - 1924-2014", pad=20)
 
-# show the chart
+
 plt.show()
